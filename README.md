@@ -1,2 +1,2 @@
 # MyWebScrapingProjects
-Useful projects to do some web scraping
+Useful web scraping ideas to make daily life easier
